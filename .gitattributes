@@ -1,0 +1,4 @@
+* text=auto
+*.class linguist-vendored
+*.java linguist-vendored
+CHANGELOG.md export-ignore
